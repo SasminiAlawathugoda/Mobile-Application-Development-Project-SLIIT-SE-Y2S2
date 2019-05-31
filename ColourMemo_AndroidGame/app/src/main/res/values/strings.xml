@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Colour Memo</string>
+    <string name="level_1">Level One</string>
+    <string name="level_2">Level Two</string>
+    <string name="level_3">Level Three</string>
+    <string name="level_4">Level Four</string>
+</resources>

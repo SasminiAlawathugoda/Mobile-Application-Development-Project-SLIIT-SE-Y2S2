@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "993424972037",
+    "firebase_url": "https://colourcollecter2.firebaseio.com",
+    "project_id": "colourcollecter2",
+    "storage_bucket": "colourcollecter2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993424972037:android:ea32e17a838e1b2e",
+        "android_client_info": {
+          "package_name": "com.example.lenovo.colourcollecter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993424972037-8rmhmihj490ptej8be1i47klmu60e9rf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lenovo.colourcollecter",
+            "certificate_hash": "257fd785079d9aa8bdf0344bdeebff6272849a42"
+          }
+        },
+        {
+          "client_id": "993424972037-mt1a1pnnjtetldpe65v6q2k5sfunk428.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARrlah_KLEx4WEX6TdCD6hiQv7da8Pl7Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993424972037-mt1a1pnnjtetldpe65v6q2k5sfunk428.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
